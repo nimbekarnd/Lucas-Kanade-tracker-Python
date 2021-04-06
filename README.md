@@ -47,17 +47,17 @@ Input dataset required for the code is present in:
 #### Go to directory:  cd 'Code/
 - To run the car tracker run: 
 
--- $python trackCar.py 
+-- $ python trackCar.py 
 
 
 - To run the baby face tracker run: 
 
--- $python trackBaby.py 
+-- $ python trackBaby.py 
 
 
 - To run the Bolt tracker run: 
 
--- $python trackBolt.py 
+-- $ python trackBolt.py
 
 
 ### References:
