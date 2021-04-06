@@ -32,17 +32,17 @@ Input dataset required for the code is present in:
 
 **Tracking moving car (video [here](https://drive.google.com/file/d/1UAPNs9cprUpfJuVWVzzGFTA9Ix17ecIG/view?usp=sharing)):**
 
-![alt text](./output/track_car.png?raw=true "Tracking moving car")
+![alt text](./Output/track_car.png?raw=true "Tracking moving car")
 
 
 **Tracking baby face (video [here](https://drive.google.com/file/d/1sC5zJaDpZaEOKO5GB0fOIiAbLdJbqW6I/view?usp=sharing)):**
 
-![alt text](./output/track_baby.png?raw=true "Tracking baby face")
+![alt text](./Output/track_baby.png?raw=true "Tracking baby face")
 
 
 **Tracking running Bolt (video [here](https://drive.google.com/file/d/1RU3QxBeAduXsoll0UXBcejsySumBOgBT/view?usp=sharing)):**
 
-![alt text](./output/track_bolt.png?raw=true "Tracking running Bolt")
+![alt text](./Output/track_bolt.png?raw=true "Tracking running Bolt")
 
 #### Go to directory:  cd 'Code/
 - To run the car tracker run: 
