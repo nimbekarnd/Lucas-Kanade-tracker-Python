@@ -1,4 +1,4 @@
-# Lucas-Kanade-tracker-Python
+# Lucas-Kanade-Tracker-Python
 
 ## Optical Flow using Lucas-Kanade Algorithm
 
